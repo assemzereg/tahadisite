@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Tahadi Go
+## Description
+The website Of TahadiGo is consisted of two parts and a landing page
++ The landing page shows the app that will be later launched the team and other elements
++ The first part is for user he can check the tourist sites and check their rating and rate them himself check their location and he can of course login or signup
++ The second part is for contributors that adds the tourist sites to the database they can login or request the account create a tourist site or modify one of their own and check the sites they created
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Landing
+![TahadiLAnd](https://github.com/assemzereg/tahadisite/assets/65505305/edc7eb54-6ae3-43ad-b041-bd88919aee1d)
+## User Interface
+### Login
+![LOGINTAHADI](https://github.com/assemzereg/tahadisite/assets/65505305/dbd5b88d-7bc8-4ba9-8ea8-47d103766698)
 
-## Available Scripts
+### SignUp
 
-In the project directory, you can run:
+![TahadiLogin](https://github.com/assemzereg/tahadisite/assets/65505305/8adaae70-b040-4d34-86fc-34cd9c79b2e8)
 
-### `npm start`
+### List of Sites Page
+![siteslist](https://github.com/assemzereg/tahadisite/assets/65505305/1bb59694-2112-47d4-a64f-fb347dab6ea0)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Site PAge
+![site](https://github.com/assemzereg/tahadisite/assets/65505305/c8233266-b09c-46ee-8056-cba713998cc0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributor Interface
+### Login
+![Login Club](https://github.com/assemzereg/tahadisite/assets/65505305/a4f3ab45-5586-4368-b4fc-2bfedd286d8b)
+### Request Contributor access
+![Login Club (1)](https://github.com/assemzereg/tahadisite/assets/65505305/4cd510f5-6173-41dc-a1bd-ff52f351a090)
+### consult your sites or create/modify a site
+![Desktop](https://github.com/assemzereg/tahadisite/assets/65505305/b30f13c6-5225-4d16-aabd-9480c924c750)
+### Consult site
+![constsite](https://github.com/assemzereg/tahadisite/assets/65505305/ce9f8f99-c0b9-4091-81b8-b8e9f28cb407)
